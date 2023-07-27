@@ -1,3 +1,4 @@
+
 [tool.poetry]
 name = "repl_nix_Flask-web-dev"
 version = "0.1.0"
@@ -8,16 +9,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 Flask = "^2.3.2"
 Flask-SQLAlchemy = "^3.0.5"
-
-
-
-#[tool.poetry.dependencies]
-#python = "^3.10"
-#flask = "^1.1.4"
-#Flask-SQLAlchemy = "^3.0.5"
-#Flask = "^2.3.2"
-#Flask-SQLAlchemy = "^3.0.5""
-
+SQLAlchemy = "^1.4.0"  # Use a compatible version of SQLAlchemy with Flask-SQLAlchemy 3.0.5
 
 [tool.poetry.dev-dependencies]
 
