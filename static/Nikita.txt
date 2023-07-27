@@ -1,0 +1,4 @@
+Hello
+I am Nikita Pandey 
+ i am creating this txt file inside static
+ 
