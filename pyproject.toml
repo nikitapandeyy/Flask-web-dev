@@ -3,7 +3,7 @@
 name = "repl_nix_Flask-web-dev"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["nikitapandey052004@gmail.com"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
